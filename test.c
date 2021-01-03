@@ -274,8 +274,8 @@ int rule(int n)		//遊戲規則
 	printf("■            *若有玩家退出遊戲，則該玩家的星球轉變為空置                                       ■\n");
 	printf("■                                                                                              ■\n");
 	printf("■            勝利條件                                                                          ■\n");
+	printf("■            *回合數太多可選擇是否繼續遊戲，若否，則該玩家退出遊戲                             ■\n");
 	printf("■            *若玩家只剩一人，則倖存者獲勝，遊戲結束                                           ■\n");
-	printf("■                                                                                              ■\n");
 	printf("■                                                                                              ■\n");
 	printf("■                                                                                              ■\n");
 	printf("■                                                                                              ■\n");
